@@ -1,0 +1,2 @@
+# vk
+termux app
